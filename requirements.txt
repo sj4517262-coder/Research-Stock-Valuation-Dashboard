@@ -1,0 +1,7 @@
+pandas
+numpy
+openpyxl
+streamlit
+plotly
+yfinance   # optional, only for live data
+matplotlib
